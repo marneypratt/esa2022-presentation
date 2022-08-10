@@ -2,6 +2,7 @@
 format:
   revealjs:
     theme: default
+    self-contained: true
 ---
 
 ## Raising the Bar: {style="text-align: center;"}
@@ -15,11 +16,11 @@ format:
 
 [Contributions by Audrey McCombs & Dan Turner]{style="text-align: center;"}
 
-\
-
 [August 16, 2022]{style="text-align: center;"}
 
 \
+
+Raise The Bar Interactive Website: [https://raisethebar.netlify.app/](https://raisethebar.netlify.app/)
 
 email questions to: [mcpratt\@smith.edu]{style="color: blue"}
 
